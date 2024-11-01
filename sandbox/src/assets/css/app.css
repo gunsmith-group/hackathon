@@ -1,0 +1,70 @@
+.gg-color-1 {
+    color: #4D4634;
+}
+
+.gg-color-2 {
+    color: #9C926D;
+}
+
+.gg-color-3 {
+    color: #F0EDEE;
+}
+
+.gg-color-4 {
+    color: #90DDF0;
+}
+
+.gg-color-5 {
+    color: #FE7F2D;
+}
+
+.gg-border-1 {
+    border-color: #4D4634;
+}
+
+.gg-border-2 {
+    border-color: #9C926D;
+}
+
+.gg-border-3 {
+    border-color: #F0EDEE;
+}
+
+.gg-border-4 {
+    border-color: #90DDF0;
+}
+
+.gg-border-5 {
+    border-color: #FE7F2D;
+}
+.gg-bg-1 {
+    background-color: #4D4634;
+}
+
+.gg-bg-2 {
+    background-color: #9C926D;
+}
+
+.gg-bg-3 {
+    background-color: #F0EDEE;
+}
+
+.gg-bg-4 {
+    background-color: #90DDF0;
+}
+
+.gg-bg-5 {
+    background-color: #FE7F2D;
+}
+
+.contract-state {
+    max-height: 400px;
+    min-height: 400px;
+    overflow: auto;
+}
+
+.loading-gif {
+    vertical-align: middle;
+    display: inline-block;
+    /*margin: auto;*/
+}

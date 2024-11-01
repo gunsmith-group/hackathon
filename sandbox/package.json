@@ -1,0 +1,96 @@
+{
+  "name": "gg sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.1.5",
+    "@microlink/react-json-view": "^1.23.0",
+    "@near-wallet-selector/bitte-wallet": "^8.9.12",
+    "@near-wallet-selector/core": "^8.9.12",
+    "@near-wallet-selector/here-wallet": "^8.9.12",
+    "@near-wallet-selector/ledger": "^8.9.12",
+    "@near-wallet-selector/meteor-wallet": "^8.9.12",
+    "@near-wallet-selector/modal-ui": "^8.9.12",
+    "@near-wallet-selector/my-near-wallet": "^8.9.12",
+    "@near-wallet-selector/sender": "^8.9.12",
+    "@reduxjs/toolkit": "^2.2.7",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "borsher": "^3.5.0",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "date-fns": "^4.1.0",
+    "dot-prop-immutable": "^2.1.1",
+    "https-browserify": "^1.0.0",
+    "javascript-time-ago": "^2.5.11",
+    "lodash": "^4.17.21",
+    "near-api-js": "^4.0.3",
+    "process": "^0.11.10",
+    "pubsub-js": "^1.9.4",
+    "react": "^18.3.1",
+    "react-app-rewired": "^2.2.1",
+    "react-dom": "^18.3.1",
+    "react-highlight": "^0.15.0",
+    "react-json-pretty": "^2.2.0",
+    "react-redux": "^9.1.2",
+    "react-router": "^6.26.1",
+    "react-router-dom": "^6.26.1",
+    "react-scripts": "5.0.1",
+    "react-time-ago": "^7.3.3",
+    "react-toastify": "^10.0.5",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1",
+    "underscore": "^1.13.7",
+    "use-immer": "^0.10.0",
+    "use-onclickoutside": "^0.4.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^28.1.8",
+    "@types/react": "^18.2.13",
+    "@types/react-dom": "^18.2.6",
+    "@types/testing-library__jest-dom": "^5.14.6",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "shx": "^0.3.4",
+    "source-map-loader": "^4.0.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "tailwindcss": "^3.4.14",
+    "typescript": "~4.7.4",
+    "url": "^0.11.1",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2",
+    "webpack": "^5.88.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
